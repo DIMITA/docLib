@@ -1,0 +1,12 @@
+.container {
+  width: 100vw;
+  height: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 200;
+  color: white;
+  background-color: #7fe39b;
+  font-style: italic;
+  font-size: calc(min(7vw, 7em));
+}
